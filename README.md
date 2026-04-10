@@ -68,7 +68,7 @@ I started as a graphic and editorial designer in **2014**, specialized in intera
 ![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
 ![Suno](https://img.shields.io/badge/Suno-000000?style=flat-square&logo=suno&logoColor=white)
 
-Applied selectively: code-assisted development, project structuring, multimedia generation, and agent/skill workflows — used when the use case justifies it, not as a default.
+Applied selectively: code-assisted development, project structuring, multimedia generation, and agent/skill workflows.
 
 ---
 
@@ -172,7 +172,5 @@ const whatIBuild = [
 ---
 
 <div align="center">
-
-`© 2025 Franco Rossi · Todos los derechos reservados`
 
 </div>
