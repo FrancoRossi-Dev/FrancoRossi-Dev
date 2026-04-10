@@ -61,6 +61,13 @@ I started as a graphic and editorial designer in **2014**, specialized in intera
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
+### AI-Assisted Workflows
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
+
+Applied selectively: code-assisted development, project structuring, multimedia generation, and agent/skill workflows — used when the use case justifies it, not as a default.
+
 ---
 
 ## `git log --projects`
