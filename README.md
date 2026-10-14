@@ -163,7 +163,6 @@ const whatIBuild = [
 | **LinkedIn** | FrancoRossi-Dev |
 | **GitHub** | FrancoRossi-Dev |
 | **Behance** | FrancoRossi-Visual |
-| **Phone** | +598 99 224 710 |
 
 *Native Spanish · English C1*
 
